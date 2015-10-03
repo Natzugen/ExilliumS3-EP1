@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{a5ce5497-c9c2-4647-90d0-6ce2a526e40b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SQL">
+      <UniqueIdentifier>{d400801b-d888-4e5d-8012-4026e27abd57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{26fc185e-6ecd-4150-b59e-c1e152613e60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Customs">
+      <UniqueIdentifier>{ef810680-e236-4403-af46-8cc2985b4072}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Customs\CustomJewels">
+      <UniqueIdentifier>{da3e543e-ba85-4d08-b691-780e26cdc2fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Customs\GuildSystem">
+      <UniqueIdentifier>{03d4bee2-859a-409a-afa7-ce5a67c65f95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Customs\ChaosMachine">
+      <UniqueIdentifier>{63161396-7ea1-4dfc-8415-3e8f00aabf25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Customs\Commands">
+      <UniqueIdentifier>{1457d2d0-244b-49c9-a251-3e46f3ae746c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Customs\StoneExchanger">
+      <UniqueIdentifier>{ff20cf0c-36c5-4920-82d2-ccb1e0dea21e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mapping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Protocol.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InitDll.cpp" />
+    <ClCompile Include="SQL.cpp">
+      <Filter>SQL</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomJewels.cpp">
+      <Filter>Customs\CustomJewels</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildSystem.cpp">
+      <Filter>Customs\GuildSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Security.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fixes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChaosMachine.cpp">
+      <Filter>Customs\ChaosMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="Commands.cpp">
+      <Filter>Customs\Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="Structures.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StoneExchanger.cpp">
+      <Filter>Customs\StoneExchanger</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mapping.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocol.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadScript.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SQL.h">
+      <Filter>SQL</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomJewels.h">
+      <Filter>Customs\CustomJewels</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildSystem.h">
+      <Filter>Customs\GuildSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Security.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fixes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChaosMachine.h">
+      <Filter>Customs\ChaosMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="Commands.h">
+      <Filter>Customs\Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="Structures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StoneExchanger.h">
+      <Filter>Customs\StoneExchanger</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
